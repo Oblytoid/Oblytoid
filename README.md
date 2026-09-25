@@ -2,6 +2,7 @@
 
 Desenvolvedor de software focado em resolver problemas com código limpo e criar experiências interativas. Apaixonado por desenvolvimento de jogos, arquitetura de sistemas e novas tecnologias.
 
+- 🌐 **Website:** [bytroid.com](https://www.bytroid.com)
 - 🎮 **Foco atual:** Game Development & Engenharia de Software
 - 🚀 **Objetivo:** Criar projetos escaláveis, performáticos e imersivos
 - 💡 **Interesses:** C++, C#, Kotlin, Godot Engine e Backend
@@ -25,6 +26,9 @@ Desenvolvedor de software focado em resolver problemas com código limpo e criar
 ### 🌐 Vamos nos conectar?
 
 <p align="left">
+  <a href="https://www.bytroid.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/cauan-nogueira-3b3916270/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -45,12 +49,10 @@ Desenvolvedor de software focado em resolver problemas com código limpo e criar
 ---
 
 ### 📊 Estatísticas
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oblytoid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oblytoid&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Oblytoid&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oblytoid&radius=16&theme=radical&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oblytoid&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </p>
