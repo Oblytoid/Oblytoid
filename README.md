@@ -49,9 +49,6 @@ Desenvolvedor de software focado em resolver problemas com código limpo e criar
 ---
 
 ### 📊 Estatísticas
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Oblytoid&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oblytoid&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
