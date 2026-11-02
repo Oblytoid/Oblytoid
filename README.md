@@ -5,7 +5,7 @@ Desenvolvedor de software focado em resolver problemas com código limpo e criar
 - 🌐 **Website:** [bytroid.com](https://www.bytroid.com)
 - 🎮 **Foco atual:** Game Development & Engenharia de Software
 - 🚀 **Objetivo:** Criar projetos escaláveis, performáticos e imersivos
-- 💡 **Interesses:** C++, C#, Kotlin, Godot Engine e Backend
+- 💡 **Interesses:** C++, C#, Kotlin, Java, Godot Engine e Backend
 
 ---
 
