@@ -45,11 +45,4 @@ Desenvolvedor de software focado em resolver problemas com código limpo e criar
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oblytoid&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-</p>
+u
