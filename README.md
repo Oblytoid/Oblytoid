@@ -45,4 +45,3 @@ Desenvolvedor de software focado em resolver problemas com código limpo e criar
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-u
